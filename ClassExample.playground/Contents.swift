@@ -40,8 +40,8 @@ let image = Image(drawOn: canvas)
 // You can "tweak" or develop new functionality in the playground below...
 
 // Draw a rectangle on the canvas
-canvas.drawRectangle(centreX: 50, centreY: 50, width: 25, height: 25)
-canvas.drawText(message: "This square is drawn from the playground directly.", size: 12, x: 75, y: 40)
+//canvas.drawRectangle(centreX: 50, centreY: 50, width: 25, height: 25)
+//canvas.drawText(message: "This square is drawn from the playground directly.", size: 12, x: 75, y: 40)
 
 /*:
  ## Template code
